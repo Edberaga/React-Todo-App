@@ -1,0 +1,6 @@
+.notes-section {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: flex-start;
+}
